@@ -1,17 +1,9 @@
 {
   "name": "Cinemana Repository",
   "packageName": "com.cinemana.repo",
-  "version": "1.0.0",
-  "plugins": [
-    {
-      "id": "cinemana",
-      "name": "Cinemana شبكتي",
-      "version": "1.0.0",
-      "description": "أفلام ومسلسلات عربية من موقع سينمانا شبكتي",
-      "author": "YourName",
-      "lang": "ar",
-      "baseUrl": "https://cinemana.shabakaty.cc",
-      "icon": "https://cinemana.shabakaty.cc/favicon.ico"
-    }
+  "description": "Arabic movies and series from Cinemana",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/h94436950-png/skystream-cinemana/refs/heads/main/cinemana/manifest.json"
   ]
 }
