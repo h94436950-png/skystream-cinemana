@@ -1,0 +1,11 @@
+{
+  "id": "cinemana",
+  "name": "Cinemana شبكتي",
+  "description": "أفلام ومسلسلات عربية من موقع سينمانا شبكتي",
+  "version": "1.0.0",
+  "baseUrl": "https://cinemana.shabakaty.cc",
+  "language": "ar",
+  "iconUrl": "https://cinemana.shabakaty.cc/favicon.ico",
+  "author": "YourName",
+  "entrypoint": "plugin.js"
+}
