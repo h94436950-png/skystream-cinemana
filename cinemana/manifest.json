@@ -7,5 +7,5 @@
   "language": "ar",
   "iconUrl": "https://cinemana.shabakaty.cc/favicon.ico",
   "author": "YourName",
-  "entrypoint": "plugin.js"
+  "entrypoint": "com.cinemana.repo.cinemana.js"
 }
