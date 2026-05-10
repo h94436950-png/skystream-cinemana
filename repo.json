@@ -1,0 +1,16 @@
+{
+  "name": "Cinemana Repository",
+  "description": "Arabic movies and series from Cinemana",
+  "plugins": [
+    {
+      "id": "cinemana",
+      "name": "Cinemana شبكتي",
+      "version": "1.0.0",
+      "description": "أفلام ومسلسلات عربية",
+      "author": "YourName",
+      "lang": "ar",
+      "baseUrl": "https://cinemana.shabakaty.cc",
+      "icon": "https://cinemana.shabakaty.cc/favicon.ico"
+    }
+  ]
+}
